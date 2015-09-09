@@ -1,0 +1,12 @@
+# Ignore Acquia Dev Desktop stuff
+sites/*.dd
+
+# Ignore wacky Mac stuff
+.DS_Store
+
+# Ignore configuration files that may contain sensitive information.
+sites/*/settings*.php
+
+# Ignore paths that contain user-generated content.
+sites/*/files
+sites/*/private
