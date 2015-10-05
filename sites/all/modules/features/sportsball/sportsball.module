@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Sportsball feature.
+ */
+
+include_once 'sportsball.features.inc';
