@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the creartive feature.
- */
-
-include_once 'creartive.features.inc';
